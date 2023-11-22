@@ -1,0 +1,12 @@
+100|Alfentanila|40.50|generico|pilula|Entorpecente
+200|Alprazolam|30.00|referencia|pilula|Psicotropico
+300|Diazepam|20.00|generico|liquido|Anabolizantes
+400|Tiopental|10.90|generico|pilula|Entorpecente
+500|Alfentanila|40.50|generico|pilula|Entorpecente
+600|Alprazolam|30.00|referencia|pilula|Anabolizantes
+700|Diazepam|20.00|generico|liquido|Anabolizantes
+800|Tiopental|10.90|generico|pilula|Psicotropico
+900|Alfentanila|40.50|generico|pilula|Anabolizantes
+110|Alprazolam|30.00|referencia|pilula|Entorpecente
+120|Diazepam|20.00|generico|liquido|Psicotropico
+130|Tiopental|10.90|generico|pilula|Psicotropico

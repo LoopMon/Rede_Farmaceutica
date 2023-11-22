@@ -1,0 +1,7 @@
+100|Acetilcisteina|5.99|generico|pilula|nasal
+200|Aceclofenaco|20.45|referencia|liquido|alivia dores
+300|Bacillus cereus|15.32|generico|pilula|diarreia
+400|Cloridrato de azelastina|13.22|referencia|liquido|rinite alergica
+500|Cloridrato de butenafina|25.34|generico|creme|tratamento de micoses
+600|Cloridrato de clobutinol|19.99|generico|liquido|alivio de tosse seca
+700|Colagenase|8.50|referencia|creme|lesoes da pele

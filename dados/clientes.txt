@@ -1,0 +1,6 @@
+111|Marcos|30|m
+222|Daniel|21|m
+333|Luciana|19|f
+444|Julia|65|f
+555|Maria|34|f
+666|Andre|54|m
